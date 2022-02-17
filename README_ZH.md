@@ -63,6 +63,7 @@ weditor --shortcut
 
 ## TODO  
 * 命令行启动webditor时，如果存在已有实例，则终端打印服务URL，或者自动打开默认浏览器访问该服务
+* weditor有时候操作点击无效果，影响脚本录制⏺
 
 ## 开发者文档
 See [DEVELOP.md](DEVELOP.md)
