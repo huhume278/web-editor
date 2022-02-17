@@ -61,6 +61,9 @@ weditor --shortcut
 - CTRL+Enter: 运行编辑器中所有代码
 - CTRL+SHIFT+Enter: 运行选中代码或光标所在行代码
 
+## TODO  
+* 命令行启动webditor时，如果存在已有实例，则终端打印服务URL，或者自动打开默认浏览器访问该服务
+
 ## 开发者文档
 See [DEVELOP.md](DEVELOP.md)
 
